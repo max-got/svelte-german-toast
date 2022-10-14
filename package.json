@@ -1,7 +1,7 @@
 {
-	"name": "svelte-french-toast",
+	"name": "svelte-german-toast",
 	"version": "1.0.3",
-	"description": "Buttery smooth Svelte toasts. Lightweight, customizable, and beautiful by default.",
+	"description": "Buttery smooth Svelte toasts with some sausage. Lightweight, customizable, and beautiful by default.",
 	"keywords": [
 		"svelte",
 		"notifications",
@@ -10,10 +10,10 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/kbrgl/svelte-french-toast.git"
+		"url": "https://github.com/schietegal/svelte-german-toast.git"
 	},
 	"license": "MIT",
-	"author": "Kabir Goel",
+	"author": "Max G.",
 	"sideEffects": false,
 	"type": "module",
 	"svelte": "index.js",
